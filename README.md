@@ -80,7 +80,7 @@ Built QA frameworks for AI platforms: Knowledge Search (RAG), WhatsApp Automatio
 
 <div align="center">
 
-**Contributed to [browser-use](https://github.com/browser-use/web-ui) (15.3k⭐)** | **6 Open Source Projects** | **ISTQB Certified**
+**QA Engineer @ Finboa** | **Building AI-powered testing tools** | **ISTQB Certified** | **Creator of QA Prompt Library (38⭐)** 
 
 [![Portfolio](https://img.shields.io/badge/More_Info-tayyabakmal.com-blue?style=flat-square)](https://tayyabakmal.com) 
 [![Blog](https://img.shields.io/badge/Blog-Read_Articles-orange?style=flat-square)](https://tayyabakmal.com/blog)
