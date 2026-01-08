@@ -2,7 +2,7 @@
 
 # Hi, I'm Tayyab Akmal 👋
 
-### AI & QA Automation Engineer | 5+ Years Experience
+### AI & QA Automation Engineer | 6+ Years Experience
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-tayyabakmal.com-blue?style=for-the-badge)](https://tayyabakmal.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tayyab-sqa-engineer/)
